@@ -33,14 +33,7 @@ def graph():
             target = request.args.get('query', '')
             #深さ
             depth = request.args.get('depth', '')
-            filename = target + '.json'
-            elements = xml_to_json.xmlTojson_fileoutput(target,int(depth))
-            #無効なアクセッション番号
-            if elements == -1:
-                return 'Invalid accession number'
-            elements = json.dumps(elements)
-            return render_template("graph.html",elem=elements,filename=filename)
-
+            return render_template("loading.html",query=target,depth=depth)
         #アップロードしたjsonファイルからグラフを生成する場合は、POST
         elif request.method == 'POST':
             if 'fileup' not in request.files:
@@ -50,7 +43,6 @@ def graph():
                 return 'file unspecified'
             if file and allwed_file(file.filename):
                 filename = secure_filename(file.filename)
-
                 #fileはFileStorage型なので、readしてjsonに変換
                 elements = json.dumps(json.loads(file.read()))
                 return render_template("graph.html",elem=elements,filename=filename)
@@ -59,9 +51,22 @@ def graph():
     except Exception as e:
         return str(e)
 
+@app.route("/analyze",methods=['GET', 'POST'])
+def analyze():
+    #アクセッション番号
+    target = request.args.get('query', '')
+    #深さ
+    depth = request.args.get('depth', '')
+    filename = target + '.json'
+    elements = xml_to_json.xmlTojson_fileoutput(target,int(depth))
+    #無効なアクセッション番号
+    if elements == -1:
+        return 'Invalid accession number'
+    return render_template("graph.html",elem=elements,filename=filename)
+
+
 @app.route('/download',methods=['GET','POST'])
 def donwload():
-
     #ファイル名はダウンロードボタンに記載してある
     filename = request.args.get('button', '')
     #ファイルをサーバ内に残さないために、インメモリでjsonファイルの内容を展開
