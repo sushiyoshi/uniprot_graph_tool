@@ -1,0 +1,60 @@
+<!-- <!DOCTYPE html>
+<html>
+<body>
+  <head>
+    <link href="/static/index.css" rel="stylesheet" />
+  </head>
+  <form action="/graph" enctype="multipart/form-data">
+    <label>Analyze a protein and display a graph.</label><br>
+    <input type="text" name="query" value="O60315" placeholder="Enter a protein">
+    <input type="number" name="depth" value="1" placeholder="Set the depth">
+    <button type="submit" formmethod="get">Create a graph</button><br>
+    <label>Display the graph from the uploaded json</label><br>
+    <input type="file" name="fileup">
+    <button type="submit" formmethod="post">Create a graph</button>
+  <form>
+  <div id="loader">
+      <div class="spinner">
+        <div class="cube1"></div>
+        <div class="cube2"></div>
+      </div>
+  </div>
+  <script type="text/javascript">
+    
+  </script>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Uniprot Tool</title>
+ <!-- <link href="/static/index.css" rel="stylesheet" />-->
+</head>
+<body>
+  <div class="folder_open"></div>
+  <div id="app">
+  <form action="/graph" enctype="multipart/form-data">
+    <a class = "text center">Analyze a protein and display a graph.</a><br>
+    <input type="text" name="query" value="O60315" placeholder="Enter a protein">
+    <input type="number" name="depth" value="1" placeholder="Set the depth">
+    <button type="submit" formmethod="get" id="upload_button" class="center">Create a graph</button><br>
+    <a class = "text2 center">Display the graph from the uploaded json</a>
+    <input type="file" name="fileup" class="center">
+    <p class="center" id="upload_state">選択されていません</p>
+    <button type="submit" formmethod="post" id="upload_button" class="center">Create a graph</button>
+  <form>
+  <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
+  <script type="text/javascript">
+    $('input').on('change', function () {
+      var file = $(this).prop('files')[0];
+      $('p').text(file.name);
+  });
+  </script>
+  </div>
+  <div id="analyze"></div>
+  <div id="fileup"></div>
+
+</body>
+</html>

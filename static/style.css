@@ -1,0 +1,21 @@
+
+body { 
+  font: 14px helvetica neue, helvetica, arial, sans-serif;
+  background: #60627a;
+}
+/*
+body {
+      background: #b0c4de
+      font-family: "sans-serif";
+      font-weight:600;
+      color:#b0c4de;
+}
+*/
+#cy {
+  height: 90%;
+  width: 100%;
+  position: absolute;
+  left: 0;
+  top: 20;
+  background: #fff;
+}

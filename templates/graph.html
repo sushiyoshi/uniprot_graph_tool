@@ -1,0 +1,126 @@
+<!--
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="description" content="[Cytoscape]" />
+    <link href="/static/style.css" rel="stylesheet" />
+    <meta charset=utf-8 />
+    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, minimal-ui">
+    <title>Cytoscape result</title>
+    <script src="/static/cytoscape.js/documentation/js/cytoscape.min.js"></script>
+  </head>
+  <body>
+    <div id="cy"></div>
+    <script src="/static/code.js"></script>
+  </body>
+</.html>
+-->
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="description" content="[Cytoscape]" />
+    <link href="/static/style.css" rel="stylesheet" />
+    <meta charset=utf-8 />
+    <!-- <meta name="viewport" content="user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, minimal-ui"> -->
+    <title>Cytoscape result</title>
+    <script src="/static/cytoscape.js/documentation/js/cytoscape.min.js"></script>
+  </head>
+  <form action="/download" method="get" id="download_button">
+      <label>Download the json file of the graph</label><br>
+      <input type="submit" name="button" value={{filename}} id="download_button">
+  <form>
+<!--   <form action="/download" method="post" enctype="text/plain">
+    <label>Download the json file of the graph</label><br>
+    <input type="file" name="fil" value={{elem|tojson}}>
+    <input type="submit" name="button"> -->
+  <body>
+    <div id="cy"></div>
+    <script type="text/javascript">
+        let input_file = JSON.parse({{ elem|tojson }})
+        var cy = cytoscape({
+          container: document.getElementById('cy'),
+
+          layout: {
+            name: 'cose',
+            idealEdgeLength: 100,
+            nodeOverlap: 20,
+            refresh: 20,
+            fit: true,
+            padding: 30,
+            randomize: false,
+            componentSpacing: 100,
+            nodeRepulsion: 400000,
+            edgeElasticity: 100,
+            nestingFactor: 5,
+            gravity: 80,
+            numIter: 1000,
+            initialTemp: 200,
+            coolingFactor: 0.95,
+            minTemp: 1.0
+          },
+
+          style: cytoscape.stylesheet()
+            .selector('node')
+              .css({
+                'content': 'data(name)',
+                'text-valign': 'center',
+                'color': 'white',
+                'text-outline-width': 2,
+                'background-color': '#60627a',
+                'text-outline-color': '#60627a',
+                'width': '30px', 
+                'height': '30px', 
+                'font-size': '15px'
+              })
+            .selector('.root')
+              .css({
+                'content': 'data(name)',
+                'text-valign': 'center',
+                'color': 'white',
+                'text-outline-width': 2,
+                'background-color': '#ffd700',
+                'text-outline-color': '#d2691e',
+                'width': '50px', 
+                'height': '50px', 
+                'font-size': '20px'
+              })
+            .selector('edge')
+              .css({
+                'curve-style': 'bezier',
+                'line-color': '#8b0000',
+                'width': 1
+              })
+            .selector(':selected')
+              .css({
+                'background-color': 'black',
+                'line-color': 'black',
+                'target-arrow-color': 'black',
+                'source-arrow-color': 'black'
+              })
+            .selector('.faded')
+              .css({
+                'opacity': 0.25,
+                'text-opacity': 0
+              }),
+
+          elements:  input_file, 
+        });
+
+        cy.on('tap', 'node', function(e){
+          var node = e.cyTarget;
+          var neighborhood = node.neighborhood().add(node);
+
+          cy.elements().addClass('faded');
+          neighborhood.removeClass('faded');
+        });
+
+        cy.on('tap', function(e){
+          if( e.cyTarget === cy ){
+            cy.elements().removeClass('faded');
+          }
+        });
+
+
+    </script>
+  </body>
+</html>

@@ -1,0 +1,8260 @@
+[
+    {
+        "group": "nodes",
+        "classes": "root",
+        "data": {
+            "name": "Q9BT78",
+            "id": "Q9BT78"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q0VDD7",
+            "id": "Q0VDD7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BT781",
+            "source": "Q9BT78",
+            "target": "Q0VDD7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q13155",
+            "id": "Q13155"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD71",
+            "source": "Q0VDD7",
+            "target": "Q13155"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8WUW1",
+            "id": "Q8WUW1"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD72",
+            "source": "Q0VDD7",
+            "target": "Q8WUW1"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P50990",
+            "id": "P50990"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD73",
+            "source": "Q0VDD7",
+            "target": "P50990"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BT78",
+            "id": "Q9BT78"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD74",
+            "source": "Q0VDD7",
+            "target": "Q9BT78"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UBT7",
+            "id": "Q9UBT7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD75",
+            "source": "Q0VDD7",
+            "target": "Q9UBT7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IZU0",
+            "id": "Q8IZU0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD76",
+            "source": "Q0VDD7",
+            "target": "Q8IZU0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q68CZ6",
+            "id": "Q68CZ6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD77",
+            "source": "Q0VDD7",
+            "target": "Q68CZ6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q86YM7",
+            "id": "Q86YM7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD78",
+            "source": "Q0VDD7",
+            "target": "Q86YM7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O60333-2",
+            "id": "O60333-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD79",
+            "source": "Q0VDD7",
+            "target": "O60333-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O76015",
+            "id": "O76015"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD710",
+            "source": "Q0VDD7",
+            "target": "O76015"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6A162",
+            "id": "Q6A162"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD711",
+            "source": "Q0VDD7",
+            "target": "Q6A162"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P60409",
+            "id": "P60409"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD712",
+            "source": "Q0VDD7",
+            "target": "P60409"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P60411",
+            "id": "P60411"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD713",
+            "source": "Q0VDD7",
+            "target": "P60411"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P28331-2",
+            "id": "P28331-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD714",
+            "source": "Q0VDD7",
+            "target": "P28331-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BVL2",
+            "id": "Q9BVL2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD715",
+            "source": "Q0VDD7",
+            "target": "Q9BVL2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P60900",
+            "id": "P60900"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD716",
+            "source": "Q0VDD7",
+            "target": "P60900"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q06455-4",
+            "id": "Q06455-4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD717",
+            "source": "Q0VDD7",
+            "target": "Q06455-4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P61764",
+            "id": "P61764"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD718",
+            "source": "Q0VDD7",
+            "target": "P61764"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P36406",
+            "id": "P36406"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD719",
+            "source": "Q0VDD7",
+            "target": "P36406"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q99576-3",
+            "id": "Q99576-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD720",
+            "source": "Q0VDD7",
+            "target": "Q99576-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P02766",
+            "id": "P02766"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD721",
+            "source": "Q0VDD7",
+            "target": "P02766"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O76024",
+            "id": "O76024"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD722",
+            "source": "Q0VDD7",
+            "target": "O76024"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q0VDD7-2",
+            "id": "Q0VDD7-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD723",
+            "source": "Q0VDD7",
+            "target": "Q0VDD7-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6UY14-3",
+            "id": "Q6UY14-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD724",
+            "source": "Q0VDD7",
+            "target": "Q6UY14-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q0VDD7-2",
+            "id": "Q0VDD7-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD725",
+            "source": "Q0VDD7",
+            "target": "Q0VDD7-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "A8MQ03",
+            "id": "A8MQ03"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD726",
+            "source": "Q0VDD7",
+            "target": "A8MQ03"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q0VDD7-2",
+            "id": "Q0VDD7-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD727",
+            "source": "Q0VDD7",
+            "target": "Q0VDD7-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q15323",
+            "id": "Q15323"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD728",
+            "source": "Q0VDD7",
+            "target": "Q15323"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q0VDD7-2",
+            "id": "Q0VDD7-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD729",
+            "source": "Q0VDD7",
+            "target": "Q0VDD7-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O76011",
+            "id": "O76011"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD730",
+            "source": "Q0VDD7",
+            "target": "O76011"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q0VDD7-2",
+            "id": "Q0VDD7-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD731",
+            "source": "Q0VDD7",
+            "target": "Q0VDD7-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P60410",
+            "id": "P60410"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD732",
+            "source": "Q0VDD7",
+            "target": "P60410"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q0VDD7-2",
+            "id": "Q0VDD7-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD733",
+            "source": "Q0VDD7",
+            "target": "Q0VDD7-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P0DPK4",
+            "id": "P0DPK4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q0VDD734",
+            "source": "Q0VDD7",
+            "target": "P0DPK4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7L5N1",
+            "id": "Q7L5N1"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BT782",
+            "source": "Q9BT78",
+            "target": "Q7L5N1"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q13515",
+            "id": "Q13515"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q7L5N11",
+            "source": "Q7L5N1",
+            "target": "Q13515"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BX70",
+            "id": "Q9BX70"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q7L5N12",
+            "source": "Q7L5N1",
+            "target": "Q9BX70"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9Y297",
+            "id": "Q9Y297"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q7L5N13",
+            "source": "Q7L5N1",
+            "target": "Q9Y297"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6UXH8-3",
+            "id": "Q6UXH8-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q7L5N14",
+            "source": "Q7L5N1",
+            "target": "Q6UXH8-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8NHY2",
+            "id": "Q8NHY2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q7L5N15",
+            "source": "Q7L5N1",
+            "target": "Q8NHY2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UNS2",
+            "id": "Q9UNS2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q7L5N16",
+            "source": "Q7L5N1",
+            "target": "Q9UNS2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BT78",
+            "id": "Q9BT78"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q7L5N17",
+            "source": "Q7L5N1",
+            "target": "Q9BT78"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q92905",
+            "id": "Q92905"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q7L5N18",
+            "source": "Q7L5N1",
+            "target": "Q92905"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P28482",
+            "id": "P28482"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q7L5N19",
+            "source": "Q7L5N1",
+            "target": "P28482"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P31947",
+            "id": "P31947"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q7L5N110",
+            "source": "Q7L5N1",
+            "target": "P31947"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q92529",
+            "id": "Q92529"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q7L5N111",
+            "source": "Q7L5N1",
+            "target": "Q92529"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8N6Y0",
+            "id": "Q8N6Y0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q7L5N112",
+            "source": "Q7L5N1",
+            "target": "Q8N6Y0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q15911-2",
+            "id": "Q15911-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q7L5N113",
+            "source": "Q7L5N1",
+            "target": "Q15911-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P01100",
+            "id": "P01100"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BT783",
+            "source": "Q9BT78",
+            "target": "P01100"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6UY14-3",
+            "id": "Q6UY14-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P011001",
+            "source": "P01100",
+            "target": "Q6UY14-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P05067",
+            "id": "P05067"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P011002",
+            "source": "P01100",
+            "target": "P05067"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P52566",
+            "id": "P52566"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P011003",
+            "source": "P01100",
+            "target": "P52566"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6XD76",
+            "id": "Q6XD76"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P011004",
+            "source": "P01100",
+            "target": "Q6XD76"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P15336",
+            "id": "P15336"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P011005",
+            "source": "P01100",
+            "target": "P15336"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P18847",
+            "id": "P18847"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P011006",
+            "source": "P01100",
+            "target": "P18847"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P18848",
+            "id": "P18848"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P011007",
+            "source": "P01100",
+            "target": "P18848"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P17544",
+            "id": "P17544"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P011008",
+            "source": "P01100",
+            "target": "P17544"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q14457",
+            "id": "Q14457"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P011009",
+            "source": "P01100",
+            "target": "Q14457"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UFG5",
+            "id": "Q9UFG5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110010",
+            "source": "P01100",
+            "target": "Q9UFG5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BRT8",
+            "id": "Q9BRT8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110011",
+            "source": "P01100",
+            "target": "Q9BRT8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96HB5",
+            "id": "Q96HB5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110012",
+            "source": "P01100",
+            "target": "Q96HB5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8TAB7",
+            "id": "Q8TAB7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110013",
+            "source": "P01100",
+            "target": "Q8TAB7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P49715",
+            "id": "P49715"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110014",
+            "source": "P01100",
+            "target": "P49715"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P53567",
+            "id": "P53567"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110015",
+            "source": "P01100",
+            "target": "P53567"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P10909",
+            "id": "P10909"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110016",
+            "source": "P01100",
+            "target": "P10909"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9Y6G5",
+            "id": "Q9Y6G5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110017",
+            "source": "P01100",
+            "target": "Q9Y6G5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BT78",
+            "id": "Q9BT78"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110018",
+            "source": "P01100",
+            "target": "Q9BT78"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q02930-3",
+            "id": "Q02930-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110019",
+            "source": "P01100",
+            "target": "Q02930-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P35638",
+            "id": "P35638"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110020",
+            "source": "P01100",
+            "target": "P35638"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UI10",
+            "id": "Q9UI10"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110021",
+            "source": "P01100",
+            "target": "Q9UI10"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9H0I2",
+            "id": "Q9H0I2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110022",
+            "source": "P01100",
+            "target": "Q9H0I2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9HC44",
+            "id": "Q9HC44"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110023",
+            "source": "P01100",
+            "target": "Q9HC44"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q13322-4",
+            "id": "Q13322-4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110024",
+            "source": "P01100",
+            "target": "Q13322-4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q13352",
+            "id": "Q13352"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110025",
+            "source": "P01100",
+            "target": "Q13352"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NQC1-2",
+            "id": "Q9NQC1-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110026",
+            "source": "P01100",
+            "target": "Q9NQC1-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P05412",
+            "id": "P05412"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110027",
+            "source": "P01100",
+            "target": "P05412"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P17275",
+            "id": "P17275"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110028",
+            "source": "P01100",
+            "target": "P17275"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P17535",
+            "id": "P17535"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110029",
+            "source": "P01100",
+            "target": "P17535"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UIH9",
+            "id": "Q9UIH9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110030",
+            "source": "P01100",
+            "target": "Q9UIH9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q3LI72",
+            "id": "Q3LI72"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110031",
+            "source": "P01100",
+            "target": "Q3LI72"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q14693",
+            "id": "Q14693"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110032",
+            "source": "P01100",
+            "target": "Q14693"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9Y5Q3",
+            "id": "Q9Y5Q3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110033",
+            "source": "P01100",
+            "target": "Q9Y5Q3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q03112",
+            "id": "Q03112"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110034",
+            "source": "P01100",
+            "target": "Q03112"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q14994",
+            "id": "Q14994"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110035",
+            "source": "P01100",
+            "target": "Q14994"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P42336",
+            "id": "P42336"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110036",
+            "source": "P01100",
+            "target": "P42336"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P27986-2",
+            "id": "P27986-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110037",
+            "source": "P01100",
+            "target": "P27986-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q13526",
+            "id": "Q13526"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110038",
+            "source": "P01100",
+            "target": "Q13526"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O14974",
+            "id": "O14974"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110039",
+            "source": "P01100",
+            "target": "O14974"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O14744",
+            "id": "O14744"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110040",
+            "source": "P01100",
+            "target": "O14744"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q15907",
+            "id": "Q15907"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110041",
+            "source": "P01100",
+            "target": "Q15907"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BWF3-2",
+            "id": "Q9BWF3-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110042",
+            "source": "P01100",
+            "target": "Q9BWF3-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96CM3",
+            "id": "Q96CM3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110043",
+            "source": "P01100",
+            "target": "Q96CM3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P11684",
+            "id": "P11684"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110044",
+            "source": "P01100",
+            "target": "P11684"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O60880",
+            "id": "O60880"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110045",
+            "source": "P01100",
+            "target": "O60880"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O14796",
+            "id": "O14796"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110046",
+            "source": "P01100",
+            "target": "O14796"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9P1W8",
+            "id": "Q9P1W8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110047",
+            "source": "P01100",
+            "target": "Q9P1W8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P42224",
+            "id": "P42224"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110048",
+            "source": "P01100",
+            "target": "P42224"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P56279",
+            "id": "P56279"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110049",
+            "source": "P01100",
+            "target": "P56279"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96A09",
+            "id": "Q96A09"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110050",
+            "source": "P01100",
+            "target": "Q96A09"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8NFB2",
+            "id": "Q8NFB2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110051",
+            "source": "P01100",
+            "target": "Q8NFB2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q13829",
+            "id": "Q13829"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110052",
+            "source": "P01100",
+            "target": "Q13829"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BZM4",
+            "id": "Q9BZM4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110053",
+            "source": "P01100",
+            "target": "Q9BZM4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6ZMY6-2",
+            "id": "Q6ZMY6-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110054",
+            "source": "P01100",
+            "target": "Q6ZMY6-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P52736",
+            "id": "P52736"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110055",
+            "source": "P01100",
+            "target": "P52736"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UNY5",
+            "id": "Q9UNY5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110056",
+            "source": "P01100",
+            "target": "Q9UNY5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P56671",
+            "id": "P56671"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0110057",
+            "source": "P01100",
+            "target": "P56671"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P08727",
+            "id": "P08727"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BT784",
+            "source": "Q9BT78",
+            "target": "P08727"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NYB9",
+            "id": "Q9NYB9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P087271",
+            "source": "P08727",
+            "target": "Q9NYB9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NYB9-2",
+            "id": "Q9NYB9-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P087272",
+            "source": "P08727",
+            "target": "Q9NYB9-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "A2BDD9",
+            "id": "A2BDD9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P087273",
+            "source": "P08727",
+            "target": "A2BDD9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9Y2J4-4",
+            "id": "Q9Y2J4-4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P087274",
+            "source": "P08727",
+            "target": "Q9Y2J4-4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P40617",
+            "id": "P40617"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P087275",
+            "source": "P08727",
+            "target": "P40617"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9Y5Z0",
+            "id": "Q9Y5Z0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P087276",
+            "source": "P08727",
+            "target": "Q9Y5Z0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BXY8",
+            "id": "Q9BXY8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P087277",
+            "source": "P08727",
+            "target": "Q9BXY8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NX04",
+            "id": "Q9NX04"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P087278",
+            "source": "P08727",
+            "target": "Q9NX04"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9H257",
+            "id": "Q9H257"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P087279",
+            "source": "P08727",
+            "target": "Q9H257"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IYE0-2",
+            "id": "Q8IYE0-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872710",
+            "source": "P08727",
+            "target": "Q8IYE0-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8TD31-3",
+            "id": "Q8TD31-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872711",
+            "source": "P08727",
+            "target": "Q8TD31-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IYX8-2",
+            "id": "Q8IYX8-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872712",
+            "source": "P08727",
+            "target": "Q8IYX8-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P28329-3",
+            "id": "P28329-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872713",
+            "source": "P08727",
+            "target": "P28329-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BT78",
+            "id": "Q9BT78"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872714",
+            "source": "P08727",
+            "target": "Q9BT78"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P09172",
+            "id": "P09172"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872715",
+            "source": "P08727",
+            "target": "P09172"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P11532",
+            "id": "P11532"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872716",
+            "source": "P08727",
+            "target": "P11532"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O60573",
+            "id": "O60573"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872717",
+            "source": "P08727",
+            "target": "O60573"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NRA8",
+            "id": "Q9NRA8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872718",
+            "source": "P08727",
+            "target": "Q9NRA8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IYI6",
+            "id": "Q8IYI6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872719",
+            "source": "P08727",
+            "target": "Q8IYI6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9H5Z6",
+            "id": "Q9H5Z6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872720",
+            "source": "P08727",
+            "target": "Q9H5Z6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P22607",
+            "id": "P22607"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872721",
+            "source": "P08727",
+            "target": "P22607"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P14136",
+            "id": "P14136"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872722",
+            "source": "P08727",
+            "target": "P14136"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IVS8",
+            "id": "Q8IVS8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872723",
+            "source": "P08727",
+            "target": "Q8IVS8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P06396",
+            "id": "P06396"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872724",
+            "source": "P08727",
+            "target": "P06396"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96CS2",
+            "id": "Q96CS2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872725",
+            "source": "P08727",
+            "target": "Q96CS2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O14964",
+            "id": "O14964"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872726",
+            "source": "P08727",
+            "target": "O14964"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P01112",
+            "id": "P01112"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872727",
+            "source": "P08727",
+            "target": "P01112"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O43464",
+            "id": "O43464"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872728",
+            "source": "P08727",
+            "target": "O43464"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P42858",
+            "id": "P42858"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872729",
+            "source": "P08727",
+            "target": "P42858"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UKT9",
+            "id": "Q9UKT9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872730",
+            "source": "P08727",
+            "target": "Q9UKT9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8WXH2",
+            "id": "Q8WXH2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872731",
+            "source": "P08727",
+            "target": "Q8WXH2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BVG8",
+            "id": "Q9BVG8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872732",
+            "source": "P08727",
+            "target": "Q9BVG8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q92876",
+            "id": "Q92876"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872733",
+            "source": "P08727",
+            "target": "Q92876"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P04264",
+            "id": "P04264"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872734",
+            "source": "P08727",
+            "target": "P04264"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P35908",
+            "id": "P35908"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872735",
+            "source": "P08727",
+            "target": "P35908"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P12035",
+            "id": "P12035"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872736",
+            "source": "P08727",
+            "target": "P12035"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P19013",
+            "id": "P19013"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872737",
+            "source": "P08727",
+            "target": "P19013"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P13647",
+            "id": "P13647"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872738",
+            "source": "P08727",
+            "target": "P13647"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P02538",
+            "id": "P02538"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872739",
+            "source": "P08727",
+            "target": "P02538"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P04259",
+            "id": "P04259"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872740",
+            "source": "P08727",
+            "target": "P04259"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P48668",
+            "id": "P48668"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872741",
+            "source": "P08727",
+            "target": "P48668"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q3SY84",
+            "id": "Q3SY84"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872742",
+            "source": "P08727",
+            "target": "Q3SY84"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q14CN4",
+            "id": "Q14CN4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872743",
+            "source": "P08727",
+            "target": "Q14CN4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7RTS7",
+            "id": "Q7RTS7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872744",
+            "source": "P08727",
+            "target": "Q7RTS7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O95678",
+            "id": "O95678"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872745",
+            "source": "P08727",
+            "target": "O95678"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7Z794",
+            "id": "Q7Z794"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872746",
+            "source": "P08727",
+            "target": "Q7Z794"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8N1N4",
+            "id": "Q8N1N4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872747",
+            "source": "P08727",
+            "target": "Q8N1N4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q5XKE5",
+            "id": "Q5XKE5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872748",
+            "source": "P08727",
+            "target": "Q5XKE5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P05787",
+            "id": "P05787"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872749",
+            "source": "P08727",
+            "target": "P05787"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6KB66-2",
+            "id": "Q6KB66-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872750",
+            "source": "P08727",
+            "target": "Q6KB66-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q14533",
+            "id": "Q14533"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872751",
+            "source": "P08727",
+            "target": "Q14533"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P78385",
+            "id": "P78385"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872752",
+            "source": "P08727",
+            "target": "P78385"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P78386",
+            "id": "P78386"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872753",
+            "source": "P08727",
+            "target": "P78386"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O43790",
+            "id": "O43790"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872754",
+            "source": "P08727",
+            "target": "O43790"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96BZ8",
+            "id": "Q96BZ8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872755",
+            "source": "P08727",
+            "target": "Q96BZ8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8TCE9",
+            "id": "Q8TCE9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872756",
+            "source": "P08727",
+            "target": "Q8TCE9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P07196",
+            "id": "P07196"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872757",
+            "source": "P08727",
+            "target": "P07196"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8NI38",
+            "id": "Q8NI38"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872758",
+            "source": "P08727",
+            "target": "Q8NI38"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9Y5F1",
+            "id": "Q9Y5F1"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872759",
+            "source": "P08727",
+            "target": "Q9Y5F1"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q16512",
+            "id": "Q16512"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872760",
+            "source": "P08727",
+            "target": "Q16512"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UGP5-2",
+            "id": "Q9UGP5-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872761",
+            "source": "P08727",
+            "target": "Q9UGP5-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O15160",
+            "id": "O15160"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872762",
+            "source": "P08727",
+            "target": "O15160"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6NYC8",
+            "id": "Q6NYC8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872763",
+            "source": "P08727",
+            "target": "Q6NYC8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P05129",
+            "id": "P05129"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872764",
+            "source": "P08727",
+            "target": "P05129"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P41219",
+            "id": "P41219"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872765",
+            "source": "P08727",
+            "target": "P41219"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P25786",
+            "id": "P25786"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872766",
+            "source": "P08727",
+            "target": "P25786"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9P2K3-2",
+            "id": "Q9P2K3-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872767",
+            "source": "P08727",
+            "target": "Q9P2K3-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96ES7",
+            "id": "Q96ES7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872768",
+            "source": "P08727",
+            "target": "Q96ES7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q969G3",
+            "id": "Q969G3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872769",
+            "source": "P08727",
+            "target": "Q969G3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O95295",
+            "id": "O95295"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872770",
+            "source": "P08727",
+            "target": "O95295"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NZD8",
+            "id": "Q9NZD8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872771",
+            "source": "P08727",
+            "target": "Q9NZD8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9P0N9",
+            "id": "Q9P0N9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872772",
+            "source": "P08727",
+            "target": "Q9P0N9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BT92",
+            "id": "Q9BT92"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872773",
+            "source": "P08727",
+            "target": "Q9BT92"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P0C1Z6-2",
+            "id": "P0C1Z6-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872774",
+            "source": "P08727",
+            "target": "P0C1Z6-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P21980",
+            "id": "P21980"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872775",
+            "source": "P08727",
+            "target": "P21980"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7KZS0",
+            "id": "Q7KZS0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872776",
+            "source": "P08727",
+            "target": "Q7KZS0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O76024",
+            "id": "O76024"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "P0872777",
+            "source": "P08727",
+            "target": "O76024"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BVL2",
+            "id": "Q9BVL2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BT785",
+            "source": "Q9BT78",
+            "target": "Q9BVL2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9P2A4",
+            "id": "Q9P2A4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL21",
+            "source": "Q9BVL2",
+            "target": "Q9P2A4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O95994",
+            "id": "O95994"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL22",
+            "source": "Q9BVL2",
+            "target": "O95994"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q99996-3",
+            "id": "Q99996-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL23",
+            "source": "Q9BVL2",
+            "target": "Q99996-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NP70",
+            "id": "Q9NP70"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL24",
+            "source": "Q9BVL2",
+            "target": "Q9NP70"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q52LW3-2",
+            "id": "Q52LW3-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL25",
+            "source": "Q9BVL2",
+            "target": "Q52LW3-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96DX5-3",
+            "id": "Q96DX5-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL26",
+            "source": "Q9BVL2",
+            "target": "Q96DX5-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96FT7-4",
+            "id": "Q96FT7-4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL27",
+            "source": "Q9BVL2",
+            "target": "Q96FT7-4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UII2",
+            "id": "Q9UII2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL28",
+            "source": "Q9BVL2",
+            "target": "Q9UII2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8TBE0",
+            "id": "Q8TBE0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL29",
+            "source": "Q9BVL2",
+            "target": "Q8TBE0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O75934",
+            "id": "O75934"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL210",
+            "source": "Q9BVL2",
+            "target": "O75934"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P20749",
+            "id": "P20749"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL211",
+            "source": "Q9BVL2",
+            "target": "P20749"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8WUW1",
+            "id": "Q8WUW1"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL212",
+            "source": "Q9BVL2",
+            "target": "Q8WUW1"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q0VDD7",
+            "id": "Q0VDD7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL213",
+            "source": "Q9BVL2",
+            "target": "Q0VDD7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NNX6-10",
+            "id": "Q9NNX6-10"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL214",
+            "source": "Q9BVL2",
+            "target": "Q9NNX6-10"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8WUX9",
+            "id": "Q8WUX9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL215",
+            "source": "Q9BVL2",
+            "target": "Q8WUX9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96JB2-2",
+            "id": "Q96JB2-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL216",
+            "source": "Q9BVL2",
+            "target": "Q96JB2-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9Y2V7",
+            "id": "Q9Y2V7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL217",
+            "source": "Q9BVL2",
+            "target": "Q9Y2V7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96MW5",
+            "id": "Q96MW5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL218",
+            "source": "Q9BVL2",
+            "target": "Q96MW5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8NE08",
+            "id": "Q8NE08"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL219",
+            "source": "Q9BVL2",
+            "target": "Q8NE08"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BT78",
+            "id": "Q9BT78"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL220",
+            "source": "Q9BVL2",
+            "target": "Q9BT78"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P24310",
+            "id": "P24310"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL221",
+            "source": "Q9BVL2",
+            "target": "P24310"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O75935-2",
+            "id": "O75935-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL222",
+            "source": "Q9BVL2",
+            "target": "O75935-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q14154",
+            "id": "Q14154"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL223",
+            "source": "Q9BVL2",
+            "target": "Q14154"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q86TI2-2",
+            "id": "Q86TI2-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL224",
+            "source": "Q9BVL2",
+            "target": "Q86TI2-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q14117",
+            "id": "Q14117"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL225",
+            "source": "Q9BVL2",
+            "target": "Q14117"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9H410",
+            "id": "Q9H410"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL226",
+            "source": "Q9BVL2",
+            "target": "Q9H410"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "H3BUJ7",
+            "id": "H3BUJ7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL227",
+            "source": "Q9BVL2",
+            "target": "H3BUJ7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O00303",
+            "id": "O00303"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL228",
+            "source": "Q9BVL2",
+            "target": "O00303"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P41970",
+            "id": "P41970"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL229",
+            "source": "Q9BVL2",
+            "target": "P41970"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q969X5",
+            "id": "Q969X5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL230",
+            "source": "Q9BVL2",
+            "target": "Q969X5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6NXG1-3",
+            "id": "Q6NXG1-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL231",
+            "source": "Q9BVL2",
+            "target": "Q6NXG1-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "A1KXE4-2",
+            "id": "A1KXE4-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL232",
+            "source": "Q9BVL2",
+            "target": "A1KXE4-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O15287",
+            "id": "O15287"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL233",
+            "source": "Q9BVL2",
+            "target": "O15287"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BQS8-2",
+            "id": "Q9BQS8-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL234",
+            "source": "Q9BVL2",
+            "target": "Q9BQS8-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q06547-2",
+            "id": "Q06547-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL235",
+            "source": "Q9BVL2",
+            "target": "Q06547-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q06547-3",
+            "id": "Q06547-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL236",
+            "source": "Q9BVL2",
+            "target": "Q06547-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BRX5",
+            "id": "Q9BRX5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL237",
+            "source": "Q9BVL2",
+            "target": "Q9BRX5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NS71",
+            "id": "Q9NS71"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL238",
+            "source": "Q9BVL2",
+            "target": "Q9NS71"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96CS2",
+            "id": "Q96CS2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL239",
+            "source": "Q9BVL2",
+            "target": "Q96CS2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q99871",
+            "id": "Q99871"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL240",
+            "source": "Q9BVL2",
+            "target": "Q99871"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P42858",
+            "id": "P42858"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL241",
+            "source": "Q9BVL2",
+            "target": "P42858"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8NDH6-2",
+            "id": "Q8NDH6-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL242",
+            "source": "Q9BVL2",
+            "target": "Q8NDH6-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P80217-2",
+            "id": "P80217-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL243",
+            "source": "Q9BVL2",
+            "target": "P80217-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IY31-2",
+            "id": "Q8IY31-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL244",
+            "source": "Q9BVL2",
+            "target": "Q8IY31-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IY31-3",
+            "id": "Q8IY31-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL245",
+            "source": "Q9BVL2",
+            "target": "Q8IY31-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q13352",
+            "id": "Q13352"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL246",
+            "source": "Q9BVL2",
+            "target": "Q13352"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "A1A512",
+            "id": "A1A512"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL247",
+            "source": "Q9BVL2",
+            "target": "A1A512"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6ZU52",
+            "id": "Q6ZU52"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL248",
+            "source": "Q9BVL2",
+            "target": "Q6ZU52"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6P597",
+            "id": "Q6P597"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL249",
+            "source": "Q9BVL2",
+            "target": "Q6P597"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P57682",
+            "id": "P57682"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL250",
+            "source": "Q9BVL2",
+            "target": "P57682"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q13887",
+            "id": "Q13887"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL251",
+            "source": "Q9BVL2",
+            "target": "Q13887"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7Z3Y8",
+            "id": "Q7Z3Y8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL252",
+            "source": "Q9BVL2",
+            "target": "Q7Z3Y8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7Z3Y7",
+            "id": "Q7Z3Y7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL253",
+            "source": "Q9BVL2",
+            "target": "Q7Z3Y7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q14525",
+            "id": "Q14525"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL254",
+            "source": "Q9BVL2",
+            "target": "Q14525"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6DKI2",
+            "id": "Q6DKI2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL255",
+            "source": "Q9BVL2",
+            "target": "Q6DKI2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BV99",
+            "id": "Q9BV99"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL256",
+            "source": "Q9BVL2",
+            "target": "Q9BV99"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P27338",
+            "id": "P27338"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL257",
+            "source": "Q9BVL2",
+            "target": "P27338"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q13503",
+            "id": "Q13503"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL258",
+            "source": "Q9BVL2",
+            "target": "Q13503"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O14770-4",
+            "id": "O14770-4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL259",
+            "source": "Q9BVL2",
+            "target": "O14770-4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8N6F8",
+            "id": "Q8N6F8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL260",
+            "source": "Q9BVL2",
+            "target": "Q8N6F8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NYP9",
+            "id": "Q9NYP9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL261",
+            "source": "Q9BVL2",
+            "target": "Q9NYP9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BV20",
+            "id": "Q9BV20"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL262",
+            "source": "Q9BVL2",
+            "target": "Q9BV20"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P02795",
+            "id": "P02795"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL263",
+            "source": "Q9BVL2",
+            "target": "P02795"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IXH7",
+            "id": "Q8IXH7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL264",
+            "source": "Q9BVL2",
+            "target": "Q8IXH7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q13562",
+            "id": "Q13562"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL265",
+            "source": "Q9BVL2",
+            "target": "Q13562"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7Z3B4",
+            "id": "Q7Z3B4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL266",
+            "source": "Q9BVL2",
+            "target": "Q7Z3B4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P37198",
+            "id": "P37198"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL267",
+            "source": "Q9BVL2",
+            "target": "P37198"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O43482",
+            "id": "O43482"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL268",
+            "source": "Q9BVL2",
+            "target": "O43482"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6GQQ9-2",
+            "id": "Q6GQQ9-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL269",
+            "source": "Q9BVL2",
+            "target": "Q6GQQ9-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9ULW8",
+            "id": "Q9ULW8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL270",
+            "source": "Q9BVL2",
+            "target": "Q9ULW8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BPZ3",
+            "id": "Q9BPZ3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL271",
+            "source": "Q9BVL2",
+            "target": "Q9BPZ3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BR81",
+            "id": "Q9BR81"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL272",
+            "source": "Q9BVL2",
+            "target": "Q9BR81"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P57054",
+            "id": "P57054"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL273",
+            "source": "Q9BVL2",
+            "target": "P57054"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P55347",
+            "id": "P55347"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL274",
+            "source": "Q9BVL2",
+            "target": "P55347"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96KN3",
+            "id": "Q96KN3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL275",
+            "source": "Q9BVL2",
+            "target": "Q96KN3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6P1K2",
+            "id": "Q6P1K2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL276",
+            "source": "Q9BVL2",
+            "target": "Q6P1K2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8N490-3",
+            "id": "Q8N490-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL277",
+            "source": "Q9BVL2",
+            "target": "Q8N490-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6ZMI0-5",
+            "id": "Q6ZMI0-5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL278",
+            "source": "Q9BVL2",
+            "target": "Q6ZMI0-5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P35998",
+            "id": "P35998"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL279",
+            "source": "Q9BVL2",
+            "target": "P35998"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96EN9",
+            "id": "Q96EN9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL280",
+            "source": "Q9BVL2",
+            "target": "Q96EN9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P47804-3",
+            "id": "P47804-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL281",
+            "source": "Q9BVL2",
+            "target": "P47804-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96EP0",
+            "id": "Q96EP0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL282",
+            "source": "Q9BVL2",
+            "target": "Q96EP0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BY12-3",
+            "id": "Q9BY12-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL283",
+            "source": "Q9BVL2",
+            "target": "Q9BY12-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96GM5",
+            "id": "Q96GM5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL284",
+            "source": "Q9BVL2",
+            "target": "Q96GM5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7Z6I5",
+            "id": "Q7Z6I5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL285",
+            "source": "Q9BVL2",
+            "target": "Q7Z6I5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q92783-2",
+            "id": "Q92783-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL286",
+            "source": "Q9BVL2",
+            "target": "Q92783-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O75886",
+            "id": "O75886"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL287",
+            "source": "Q9BVL2",
+            "target": "O75886"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q14765",
+            "id": "Q14765"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL288",
+            "source": "Q9BVL2",
+            "target": "Q14765"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8N4C7",
+            "id": "Q8N4C7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL289",
+            "source": "Q9BVL2",
+            "target": "Q8N4C7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "A1L190",
+            "id": "A1L190"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL290",
+            "source": "Q9BVL2",
+            "target": "A1L190"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O75528",
+            "id": "O75528"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL291",
+            "source": "Q9BVL2",
+            "target": "O75528"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q86WV5",
+            "id": "Q86WV5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL292",
+            "source": "Q9BVL2",
+            "target": "Q86WV5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BXU0",
+            "id": "Q9BXU0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL293",
+            "source": "Q9BVL2",
+            "target": "Q9BXU0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IUR5-4",
+            "id": "Q8IUR5-4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL294",
+            "source": "Q9BVL2",
+            "target": "Q8IUR5-4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q13077",
+            "id": "Q13077"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL295",
+            "source": "Q9BVL2",
+            "target": "Q13077"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q86WT6-2",
+            "id": "Q86WT6-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL296",
+            "source": "Q9BVL2",
+            "target": "Q86WT6-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96A04",
+            "id": "Q96A04"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL297",
+            "source": "Q9BVL2",
+            "target": "Q96A04"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q86WV8",
+            "id": "Q86WV8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL298",
+            "source": "Q9BVL2",
+            "target": "Q86WV8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O60636",
+            "id": "O60636"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL299",
+            "source": "Q9BVL2",
+            "target": "O60636"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6PID6",
+            "id": "Q6PID6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL2100",
+            "source": "Q9BVL2",
+            "target": "Q6PID6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P49459",
+            "id": "P49459"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL2101",
+            "source": "Q9BVL2",
+            "target": "P49459"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UMX0-2",
+            "id": "Q9UMX0-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL2102",
+            "source": "Q9BVL2",
+            "target": "Q9UMX0-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UHD9",
+            "id": "Q9UHD9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL2103",
+            "source": "Q9BVL2",
+            "target": "Q9UHD9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9H347",
+            "id": "Q9H347"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL2104",
+            "source": "Q9BVL2",
+            "target": "Q9H347"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8NEZ2",
+            "id": "Q8NEZ2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL2105",
+            "source": "Q9BVL2",
+            "target": "Q8NEZ2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P58304",
+            "id": "P58304"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL2106",
+            "source": "Q9BVL2",
+            "target": "P58304"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q86U90",
+            "id": "Q86U90"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL2107",
+            "source": "Q9BVL2",
+            "target": "Q86U90"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IWT0-2",
+            "id": "Q8IWT0-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL2108",
+            "source": "Q9BVL2",
+            "target": "Q8IWT0-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96MN9-2",
+            "id": "Q96MN9-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL2109",
+            "source": "Q9BVL2",
+            "target": "Q96MN9-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O95229",
+            "id": "O95229"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL2110",
+            "source": "Q9BVL2",
+            "target": "O95229"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "B7Z3E8",
+            "id": "B7Z3E8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BVL2111",
+            "source": "Q9BVL2",
+            "target": "B7Z3E8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9Y5F1",
+            "id": "Q9Y5F1"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BT786",
+            "source": "Q9BT78",
+            "target": "Q9Y5F1"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9H2G9",
+            "id": "Q9H2G9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9Y5F11",
+            "source": "Q9Y5F1",
+            "target": "Q9H2G9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P0C7W6",
+            "id": "P0C7W6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9Y5F12",
+            "source": "Q9Y5F1",
+            "target": "P0C7W6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BT78",
+            "id": "Q9BT78"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9Y5F13",
+            "source": "Q9Y5F1",
+            "target": "Q9BT78"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q15006",
+            "id": "Q15006"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9Y5F14",
+            "source": "Q9Y5F1",
+            "target": "Q15006"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P23527",
+            "id": "P23527"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9Y5F15",
+            "source": "Q9Y5F1",
+            "target": "P23527"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P08727",
+            "id": "P08727"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9Y5F16",
+            "source": "Q9Y5F1",
+            "target": "P08727"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9Y6N9-4",
+            "id": "Q9Y6N9-4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9Y5F17",
+            "source": "Q9Y5F1",
+            "target": "Q9Y6N9-4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q3MJ62",
+            "id": "Q3MJ62"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9Y5F18",
+            "source": "Q9Y5F1",
+            "target": "Q3MJ62"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O75381",
+            "id": "O75381"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BT787",
+            "source": "Q9BT78",
+            "target": "O75381"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BS16",
+            "id": "Q9BS16"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "O753811",
+            "source": "O75381",
+            "target": "Q9BS16"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BT78",
+            "id": "Q9BT78"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "O753812",
+            "source": "O75381",
+            "target": "Q9BT78"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O43681",
+            "id": "O43681"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "O753813",
+            "source": "O75381",
+            "target": "O43681"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9Y4F3",
+            "id": "Q9Y4F3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "O753814",
+            "source": "O75381",
+            "target": "Q9Y4F3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P40855",
+            "id": "P40855"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "O753815",
+            "source": "O75381",
+            "target": "P40855"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P50542",
+            "id": "P50542"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "O753816",
+            "source": "O75381",
+            "target": "P50542"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q15831",
+            "id": "Q15831"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BT788",
+            "source": "Q9BT78",
+            "target": "Q15831"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9Y376",
+            "id": "Q9Y376"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q158311",
+            "source": "Q15831",
+            "target": "Q9Y376"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q16543",
+            "id": "Q16543"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q158312",
+            "source": "Q15831",
+            "target": "Q16543"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BT78",
+            "id": "Q9BT78"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q158313",
+            "source": "Q15831",
+            "target": "Q9BT78"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q13451",
+            "id": "Q13451"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q158314",
+            "source": "Q15831",
+            "target": "Q13451"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P07900",
+            "id": "P07900"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q158315",
+            "source": "Q15831",
+            "target": "P07900"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P08238",
+            "id": "P08238"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q158316",
+            "source": "Q15831",
+            "target": "P08238"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O95835",
+            "id": "O95835"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q158317",
+            "source": "Q15831",
+            "target": "O95835"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96L34",
+            "id": "Q96L34"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q158318",
+            "source": "Q15831",
+            "target": "Q96L34"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P26927",
+            "id": "P26927"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q158319",
+            "source": "Q15831",
+            "target": "P26927"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P54646",
+            "id": "P54646"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q1583110",
+            "source": "Q15831",
+            "target": "P54646"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7RTN6",
+            "id": "Q7RTN6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q1583111",
+            "source": "Q15831",
+            "target": "Q7RTN6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7RTN6-1",
+            "id": "Q7RTN6-1"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q1583112",
+            "source": "Q15831",
+            "target": "Q7RTN6-1"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9C0K7",
+            "id": "Q9C0K7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q1583113",
+            "source": "Q15831",
+            "target": "Q9C0K7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8NFZ5",
+            "id": "Q8NFZ5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q1583114",
+            "source": "Q15831",
+            "target": "Q8NFZ5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NNW5",
+            "id": "Q9NNW5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q1583115",
+            "source": "Q15831",
+            "target": "Q9NNW5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P63104",
+            "id": "P63104"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q1583116",
+            "source": "Q15831",
+            "target": "P63104"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8N6Y0",
+            "id": "Q8N6Y0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q9BT789",
+            "source": "Q9BT78",
+            "target": "Q8N6Y0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8NFV4-4",
+            "id": "Q8NFV4-4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y01",
+            "source": "Q8N6Y0",
+            "target": "Q8NFV4-4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NYB9-2",
+            "id": "Q9NYB9-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y02",
+            "source": "Q8N6Y0",
+            "target": "Q9NYB9-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8TDX5-2",
+            "id": "Q8TDX5-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y03",
+            "source": "Q8N6Y0",
+            "target": "Q8TDX5-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q99996-2",
+            "id": "Q99996-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y04",
+            "source": "Q8N6Y0",
+            "target": "Q99996-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7Z3H0-1",
+            "id": "Q7Z3H0-1"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y05",
+            "source": "Q8N6Y0",
+            "target": "Q7Z3H0-1"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96IX9",
+            "id": "Q96IX9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y06",
+            "source": "Q8N6Y0",
+            "target": "Q96IX9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P53365",
+            "id": "P53365"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y07",
+            "source": "Q8N6Y0",
+            "target": "P53365"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96C12",
+            "id": "Q96C12"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y08",
+            "source": "Q8N6Y0",
+            "target": "Q96C12"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8WXK1",
+            "id": "Q8WXK1"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y09",
+            "source": "Q8N6Y0",
+            "target": "Q8WXK1"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P48047",
+            "id": "P48047"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y010",
+            "source": "Q8N6Y0",
+            "target": "P48047"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O75934",
+            "id": "O75934"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y011",
+            "source": "Q8N6Y0",
+            "target": "O75934"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O43521",
+            "id": "O43521"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y012",
+            "source": "Q8N6Y0",
+            "target": "O43521"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O15155",
+            "id": "O15155"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y013",
+            "source": "Q8N6Y0",
+            "target": "O15155"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BXY8",
+            "id": "Q9BXY8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y014",
+            "source": "Q8N6Y0",
+            "target": "Q9BXY8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q00994",
+            "id": "Q00994"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y015",
+            "source": "Q8N6Y0",
+            "target": "Q00994"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q12934-2",
+            "id": "Q12934-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y016",
+            "source": "Q8N6Y0",
+            "target": "Q12934-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q13515",
+            "id": "Q13515"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y017",
+            "source": "Q8N6Y0",
+            "target": "Q13515"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6AI39",
+            "id": "Q6AI39"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y018",
+            "source": "Q8N6Y0",
+            "target": "Q6AI39"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P78537",
+            "id": "P78537"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y019",
+            "source": "Q8N6Y0",
+            "target": "P78537"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9H2G9",
+            "id": "Q9H2G9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y020",
+            "source": "Q8N6Y0",
+            "target": "Q9H2G9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96GS4",
+            "id": "Q96GS4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y021",
+            "source": "Q8N6Y0",
+            "target": "Q96GS4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6PJG6",
+            "id": "Q6PJG6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y022",
+            "source": "Q8N6Y0",
+            "target": "Q6PJG6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P55201-2",
+            "id": "P55201-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y023",
+            "source": "Q8N6Y0",
+            "target": "P55201-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NX04",
+            "id": "Q9NX04"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y024",
+            "source": "Q8N6Y0",
+            "target": "Q9NX04"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8TAB5",
+            "id": "Q8TAB5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y025",
+            "source": "Q8N6Y0",
+            "target": "Q8TAB5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q0VAL7",
+            "id": "Q0VAL7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y026",
+            "source": "Q8N6Y0",
+            "target": "Q0VAL7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8NA61-2",
+            "id": "Q8NA61-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y027",
+            "source": "Q8N6Y0",
+            "target": "Q8NA61-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IW40",
+            "id": "Q8IW40"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y028",
+            "source": "Q8N6Y0",
+            "target": "Q8IW40"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IYX3",
+            "id": "Q8IYX3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y029",
+            "source": "Q8N6Y0",
+            "target": "Q8IYX3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96HB5-4",
+            "id": "Q96HB5-4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y030",
+            "source": "Q8N6Y0",
+            "target": "Q96HB5-4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6ZUS5",
+            "id": "Q6ZUS5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y031",
+            "source": "Q8N6Y0",
+            "target": "Q6ZUS5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IYE0",
+            "id": "Q8IYE0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y032",
+            "source": "Q8N6Y0",
+            "target": "Q8IYE0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IYE0-2",
+            "id": "Q8IYE0-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y033",
+            "source": "Q8N6Y0",
+            "target": "Q8IYE0-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8NFR7",
+            "id": "Q8NFR7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y034",
+            "source": "Q8N6Y0",
+            "target": "Q8NFR7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "A0A1B0GWI1",
+            "id": "A0A1B0GWI1"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y035",
+            "source": "Q8N6Y0",
+            "target": "A0A1B0GWI1"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8NCU1",
+            "id": "Q8NCU1"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y036",
+            "source": "Q8N6Y0",
+            "target": "Q8NCU1"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O60826",
+            "id": "O60826"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y037",
+            "source": "Q8N6Y0",
+            "target": "O60826"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8N4L8",
+            "id": "Q8N4L8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y038",
+            "source": "Q8N6Y0",
+            "target": "Q8N4L8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7Z6N9",
+            "id": "Q7Z6N9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y039",
+            "source": "Q8N6Y0",
+            "target": "Q7Z6N9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96M95-2",
+            "id": "Q96M95-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y040",
+            "source": "Q8N6Y0",
+            "target": "Q96M95-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NVE4",
+            "id": "Q9NVE4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y041",
+            "source": "Q8N6Y0",
+            "target": "Q9NVE4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8TD31-3",
+            "id": "Q8TD31-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y042",
+            "source": "Q8N6Y0",
+            "target": "Q8TD31-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q16543",
+            "id": "Q16543"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y043",
+            "source": "Q8N6Y0",
+            "target": "Q16543"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q99459",
+            "id": "Q99459"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y044",
+            "source": "Q8N6Y0",
+            "target": "Q99459"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P38936",
+            "id": "P38936"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y045",
+            "source": "Q8N6Y0",
+            "target": "P38936"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6IPU0",
+            "id": "Q6IPU0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y046",
+            "source": "Q8N6Y0",
+            "target": "Q6IPU0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96MT8-3",
+            "id": "Q96MT8-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y047",
+            "source": "Q8N6Y0",
+            "target": "Q96MT8-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q76N32",
+            "id": "Q76N32"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y048",
+            "source": "Q8N6Y0",
+            "target": "Q76N32"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q76N32-2",
+            "id": "Q76N32-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y049",
+            "source": "Q8N6Y0",
+            "target": "Q76N32-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IYR0",
+            "id": "Q8IYR0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y050",
+            "source": "Q8N6Y0",
+            "target": "Q8IYR0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8NE01",
+            "id": "Q8NE01"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y051",
+            "source": "Q8N6Y0",
+            "target": "Q8NE01"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8NE01-3",
+            "id": "Q8NE01-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y052",
+            "source": "Q8N6Y0",
+            "target": "Q8NE01-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BT78",
+            "id": "Q9BT78"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y053",
+            "source": "Q8N6Y0",
+            "target": "Q9BT78"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7L5N1",
+            "id": "Q7L5N1"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y054",
+            "source": "Q8N6Y0",
+            "target": "Q7L5N1"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q99627",
+            "id": "Q99627"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y055",
+            "source": "Q8N6Y0",
+            "target": "Q99627"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UI47-2",
+            "id": "Q9UI47-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y056",
+            "source": "Q8N6Y0",
+            "target": "Q9UI47-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NSA3",
+            "id": "Q9NSA3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y057",
+            "source": "Q8N6Y0",
+            "target": "Q9NSA3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9P2B4",
+            "id": "Q9P2B4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y058",
+            "source": "Q8N6Y0",
+            "target": "Q9P2B4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UIA0",
+            "id": "Q9UIA0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y059",
+            "source": "Q8N6Y0",
+            "target": "Q9UIA0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q13561",
+            "id": "Q13561"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y060",
+            "source": "Q8N6Y0",
+            "target": "Q13561"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O75935-2",
+            "id": "O75935-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y061",
+            "source": "Q8N6Y0",
+            "target": "O75935-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q05D60",
+            "id": "Q05D60"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y062",
+            "source": "Q8N6Y0",
+            "target": "Q05D60"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O60941",
+            "id": "O60941"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y063",
+            "source": "Q8N6Y0",
+            "target": "O60941"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O60941-5",
+            "id": "O60941-5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y064",
+            "source": "Q8N6Y0",
+            "target": "O60941-5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8WWB3",
+            "id": "Q8WWB3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y065",
+            "source": "Q8N6Y0",
+            "target": "Q8WWB3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O60573",
+            "id": "O60573"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y066",
+            "source": "Q8N6Y0",
+            "target": "O60573"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9H0I2",
+            "id": "Q9H0I2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y067",
+            "source": "Q8N6Y0",
+            "target": "Q9H0I2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P07992",
+            "id": "P07992"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y068",
+            "source": "Q8N6Y0",
+            "target": "P07992"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UPT5-1",
+            "id": "Q9UPT5-1"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y069",
+            "source": "Q8N6Y0",
+            "target": "Q9UPT5-1"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IYI6",
+            "id": "Q8IYI6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y070",
+            "source": "Q8N6Y0",
+            "target": "Q8IYI6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O95990-3",
+            "id": "O95990-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y071",
+            "source": "Q8N6Y0",
+            "target": "O95990-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BQ89",
+            "id": "Q9BQ89"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y072",
+            "source": "Q8N6Y0",
+            "target": "Q9BQ89"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9H5Z6",
+            "id": "Q9H5Z6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y073",
+            "source": "Q8N6Y0",
+            "target": "Q9H5Z6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96MY7",
+            "id": "Q96MY7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y074",
+            "source": "Q8N6Y0",
+            "target": "Q96MY7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "A0A0S2Z3R2",
+            "id": "A0A0S2Z3R2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y075",
+            "source": "Q8N6Y0",
+            "target": "A0A0S2Z3R2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8TES7-6",
+            "id": "Q8TES7-6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y076",
+            "source": "Q8N6Y0",
+            "target": "Q8TES7-6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O94868-3",
+            "id": "O94868-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y077",
+            "source": "Q8N6Y0",
+            "target": "O94868-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96RD9",
+            "id": "Q96RD9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y078",
+            "source": "Q8N6Y0",
+            "target": "Q96RD9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P02792",
+            "id": "P02792"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y079",
+            "source": "Q8N6Y0",
+            "target": "P02792"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O95995",
+            "id": "O95995"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y080",
+            "source": "Q8N6Y0",
+            "target": "O95995"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8WXI9",
+            "id": "Q8WXI9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y081",
+            "source": "Q8N6Y0",
+            "target": "Q8WXI9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P55040",
+            "id": "P55040"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y082",
+            "source": "Q8N6Y0",
+            "target": "P55040"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8NEA9",
+            "id": "Q8NEA9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y083",
+            "source": "Q8N6Y0",
+            "target": "Q8NEA9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "B1APZ0",
+            "id": "B1APZ0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y084",
+            "source": "Q8N6Y0",
+            "target": "B1APZ0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "A6NEM1",
+            "id": "A6NEM1"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y085",
+            "source": "Q8N6Y0",
+            "target": "A6NEM1"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q0D2H9",
+            "id": "Q0D2H9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y086",
+            "source": "Q8N6Y0",
+            "target": "Q0D2H9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q08AF8",
+            "id": "Q08AF8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y087",
+            "source": "Q8N6Y0",
+            "target": "Q08AF8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9Y4H4",
+            "id": "Q9Y4H4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y088",
+            "source": "Q8N6Y0",
+            "target": "Q9Y4H4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96CS2",
+            "id": "Q96CS2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y089",
+            "source": "Q8N6Y0",
+            "target": "Q96CS2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BT25",
+            "id": "Q9BT25"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y090",
+            "source": "Q8N6Y0",
+            "target": "Q9BT25"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O14964",
+            "id": "O14964"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y091",
+            "source": "Q8N6Y0",
+            "target": "O14964"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NP66",
+            "id": "Q9NP66"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y092",
+            "source": "Q8N6Y0",
+            "target": "Q9NP66"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9P0W2",
+            "id": "Q9P0W2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y093",
+            "source": "Q8N6Y0",
+            "target": "Q9P0W2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IY31",
+            "id": "Q8IY31"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y094",
+            "source": "Q8N6Y0",
+            "target": "Q8IY31"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q14005-2",
+            "id": "Q14005-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y095",
+            "source": "Q8N6Y0",
+            "target": "Q14005-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NV31",
+            "id": "Q9NV31"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y096",
+            "source": "Q8N6Y0",
+            "target": "Q9NV31"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "A0A0C4DG38",
+            "id": "A0A0C4DG38"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y097",
+            "source": "Q8N6Y0",
+            "target": "A0A0C4DG38"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96HW7",
+            "id": "Q96HW7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y098",
+            "source": "Q8N6Y0",
+            "target": "Q96HW7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q13352",
+            "id": "Q13352"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y099",
+            "source": "Q8N6Y0",
+            "target": "Q13352"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q63ZY3",
+            "id": "Q63ZY3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0100",
+            "source": "Q8N6Y0",
+            "target": "Q63ZY3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q2KHM9",
+            "id": "Q2KHM9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0101",
+            "source": "Q8N6Y0",
+            "target": "Q2KHM9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6P597-3",
+            "id": "Q6P597-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0102",
+            "source": "Q8N6Y0",
+            "target": "Q6P597-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NSK0",
+            "id": "Q9NSK0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0103",
+            "source": "Q8N6Y0",
+            "target": "Q9NSK0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q2WGJ6",
+            "id": "Q2WGJ6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0104",
+            "source": "Q8N6Y0",
+            "target": "Q2WGJ6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P52292",
+            "id": "P52292"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0105",
+            "source": "Q8N6Y0",
+            "target": "P52292"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P02533",
+            "id": "P02533"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0106",
+            "source": "Q8N6Y0",
+            "target": "P02533"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P08779",
+            "id": "P08779"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0107",
+            "source": "Q8N6Y0",
+            "target": "P08779"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P35900",
+            "id": "P35900"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0108",
+            "source": "Q8N6Y0",
+            "target": "P35900"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7Z3Y9",
+            "id": "Q7Z3Y9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0109",
+            "source": "Q8N6Y0",
+            "target": "Q7Z3Y9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7Z3Y8",
+            "id": "Q7Z3Y8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0110",
+            "source": "Q8N6Y0",
+            "target": "Q7Z3Y8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7Z3Y7",
+            "id": "Q7Z3Y7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0111",
+            "source": "Q8N6Y0",
+            "target": "Q7Z3Y7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q15323",
+            "id": "Q15323"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0112",
+            "source": "Q8N6Y0",
+            "target": "Q15323"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O76014",
+            "id": "O76014"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0113",
+            "source": "Q8N6Y0",
+            "target": "O76014"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O76015",
+            "id": "O76015"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0114",
+            "source": "Q8N6Y0",
+            "target": "O76015"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6A162",
+            "id": "Q6A162"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0115",
+            "source": "Q8N6Y0",
+            "target": "Q6A162"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q3SY84",
+            "id": "Q3SY84"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0116",
+            "source": "Q8N6Y0",
+            "target": "Q3SY84"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O95678",
+            "id": "O95678"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0117",
+            "source": "Q8N6Y0",
+            "target": "O95678"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q5XKE5",
+            "id": "Q5XKE5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0118",
+            "source": "Q8N6Y0",
+            "target": "Q5XKE5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96BZ8",
+            "id": "Q96BZ8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0119",
+            "source": "Q8N6Y0",
+            "target": "Q96BZ8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96FQ7",
+            "id": "Q96FQ7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0120",
+            "source": "Q8N6Y0",
+            "target": "Q96FQ7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O15481",
+            "id": "O15481"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0121",
+            "source": "Q8N6Y0",
+            "target": "O15481"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P59942",
+            "id": "P59942"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0122",
+            "source": "Q8N6Y0",
+            "target": "P59942"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P33993",
+            "id": "P33993"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0123",
+            "source": "Q8N6Y0",
+            "target": "P33993"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96EZ8",
+            "id": "Q96EZ8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0124",
+            "source": "Q8N6Y0",
+            "target": "Q96EZ8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9P086",
+            "id": "Q9P086"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0125",
+            "source": "Q8N6Y0",
+            "target": "Q9P086"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NPJ6",
+            "id": "Q9NPJ6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0126",
+            "source": "Q8N6Y0",
+            "target": "Q9NPJ6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "A8MW99",
+            "id": "A8MW99"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0127",
+            "source": "Q8N6Y0",
+            "target": "A8MW99"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "A6NJ78-4",
+            "id": "A6NJ78-4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0128",
+            "source": "Q8N6Y0",
+            "target": "A6NJ78-4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8IVT4",
+            "id": "Q8IVT4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0129",
+            "source": "Q8N6Y0",
+            "target": "Q8IVT4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q5JXC2",
+            "id": "Q5JXC2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0130",
+            "source": "Q8N6Y0",
+            "target": "Q5JXC2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q13064",
+            "id": "Q13064"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0131",
+            "source": "Q8N6Y0",
+            "target": "Q13064"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8NEH6",
+            "id": "Q8NEH6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0132",
+            "source": "Q8N6Y0",
+            "target": "Q8NEH6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P00540",
+            "id": "P00540"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0133",
+            "source": "Q8N6Y0",
+            "target": "P00540"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9Y3D9",
+            "id": "Q9Y3D9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0134",
+            "source": "Q8N6Y0",
+            "target": "Q9Y3D9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P50539-4",
+            "id": "P50539-4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0135",
+            "source": "Q8N6Y0",
+            "target": "P50539-4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P15173",
+            "id": "P15173"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0136",
+            "source": "Q8N6Y0",
+            "target": "P15173"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NP98",
+            "id": "Q9NP98"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0137",
+            "source": "Q8N6Y0",
+            "target": "Q9NP98"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6IBW4-4",
+            "id": "Q6IBW4-4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0138",
+            "source": "Q8N6Y0",
+            "target": "Q6IBW4-4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O14777",
+            "id": "O14777"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0139",
+            "source": "Q8N6Y0",
+            "target": "O14777"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7Z6G3-2",
+            "id": "Q7Z6G3-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0140",
+            "source": "Q8N6Y0",
+            "target": "Q7Z6G3-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "I6L9F6",
+            "id": "I6L9F6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0141",
+            "source": "Q8N6Y0",
+            "target": "I6L9F6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BVI4",
+            "id": "Q9BVI4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0142",
+            "source": "Q8N6Y0",
+            "target": "Q9BVI4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P37198",
+            "id": "P37198"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0143",
+            "source": "Q8N6Y0",
+            "target": "P37198"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "A5D8V7",
+            "id": "A5D8V7"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0144",
+            "source": "Q8N6Y0",
+            "target": "A5D8V7"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O43482",
+            "id": "O43482"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0145",
+            "source": "Q8N6Y0",
+            "target": "O43482"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9HBI0",
+            "id": "Q9HBI0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0146",
+            "source": "Q8N6Y0",
+            "target": "Q9HBI0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P26367",
+            "id": "P26367"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0147",
+            "source": "Q8N6Y0",
+            "target": "P26367"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BYU1",
+            "id": "Q9BYU1"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0148",
+            "source": "Q8N6Y0",
+            "target": "Q9BYU1"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NRD5",
+            "id": "Q9NRD5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0149",
+            "source": "Q8N6Y0",
+            "target": "Q9NRD5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q16512",
+            "id": "Q16512"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0150",
+            "source": "Q8N6Y0",
+            "target": "Q16512"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96KN3",
+            "id": "Q96KN3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0151",
+            "source": "Q8N6Y0",
+            "target": "Q96KN3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6P1K2",
+            "id": "Q6P1K2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0152",
+            "source": "Q8N6Y0",
+            "target": "Q6P1K2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6PIY2",
+            "id": "Q6PIY2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0153",
+            "source": "Q8N6Y0",
+            "target": "Q6PIY2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q969H6",
+            "id": "Q969H6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0154",
+            "source": "Q8N6Y0",
+            "target": "Q969H6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BZL4",
+            "id": "Q9BZL4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0155",
+            "source": "Q8N6Y0",
+            "target": "Q9BZL4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q15435",
+            "id": "Q15435"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0156",
+            "source": "Q8N6Y0",
+            "target": "Q15435"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q15172",
+            "id": "Q15172"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0157",
+            "source": "Q8N6Y0",
+            "target": "Q15172"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q14738",
+            "id": "Q14738"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0158",
+            "source": "Q8N6Y0",
+            "target": "Q14738"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P54646",
+            "id": "P54646"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0159",
+            "source": "Q8N6Y0",
+            "target": "P54646"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P85299-2",
+            "id": "P85299-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0160",
+            "source": "Q8N6Y0",
+            "target": "P85299-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P47897",
+            "id": "P47897"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0161",
+            "source": "Q8N6Y0",
+            "target": "P47897"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UJF2",
+            "id": "Q9UJF2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0162",
+            "source": "Q8N6Y0",
+            "target": "Q9UJF2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9P2K3-2",
+            "id": "Q9P2K3-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0163",
+            "source": "Q8N6Y0",
+            "target": "Q9P2K3-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6P9E2",
+            "id": "Q6P9E2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0164",
+            "source": "Q8N6Y0",
+            "target": "Q6P9E2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8N443",
+            "id": "Q8N443"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0165",
+            "source": "Q8N6Y0",
+            "target": "Q8N443"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6NUQ1",
+            "id": "Q6NUQ1"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0166",
+            "source": "Q8N6Y0",
+            "target": "Q6NUQ1"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q5VTR2",
+            "id": "Q5VTR2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0167",
+            "source": "Q8N6Y0",
+            "target": "Q5VTR2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q14D33",
+            "id": "Q14D33"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0168",
+            "source": "Q8N6Y0",
+            "target": "Q14D33"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q86UD0",
+            "id": "Q86UD0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0169",
+            "source": "Q8N6Y0",
+            "target": "Q86UD0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P21673",
+            "id": "P21673"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0170",
+            "source": "Q8N6Y0",
+            "target": "P21673"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BWG6",
+            "id": "Q9BWG6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0171",
+            "source": "Q8N6Y0",
+            "target": "Q9BWG6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P09683",
+            "id": "P09683"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0172",
+            "source": "Q8N6Y0",
+            "target": "P09683"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UDX3",
+            "id": "Q9UDX3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0173",
+            "source": "Q8N6Y0",
+            "target": "Q9UDX3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9C0C4",
+            "id": "Q9C0C4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0174",
+            "source": "Q8N6Y0",
+            "target": "Q9C0C4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UJW9",
+            "id": "Q9UJW9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0175",
+            "source": "Q8N6Y0",
+            "target": "Q9UJW9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9H788-2",
+            "id": "Q9H788-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0176",
+            "source": "Q8N6Y0",
+            "target": "Q9H788-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q92529",
+            "id": "Q92529"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0177",
+            "source": "Q8N6Y0",
+            "target": "Q92529"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96GM5",
+            "id": "Q96GM5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0178",
+            "source": "Q8N6Y0",
+            "target": "Q96GM5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q969G3",
+            "id": "Q969G3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0179",
+            "source": "Q8N6Y0",
+            "target": "Q969G3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q5JUK2",
+            "id": "Q5JUK2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0180",
+            "source": "Q8N6Y0",
+            "target": "Q5JUK2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9NZD8",
+            "id": "Q9NZD8"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0181",
+            "source": "Q8N6Y0",
+            "target": "Q9NZD8"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6ZRS2-3",
+            "id": "Q6ZRS2-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0182",
+            "source": "Q8N6Y0",
+            "target": "Q6ZRS2-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P30626",
+            "id": "P30626"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0183",
+            "source": "Q8N6Y0",
+            "target": "P30626"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O75558",
+            "id": "O75558"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0184",
+            "source": "Q8N6Y0",
+            "target": "O75558"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P57105",
+            "id": "P57105"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0185",
+            "source": "Q8N6Y0",
+            "target": "P57105"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q5VWN6",
+            "id": "Q5VWN6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0186",
+            "source": "Q8N6Y0",
+            "target": "Q5VWN6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8N8B7-2",
+            "id": "Q8N8B7-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0187",
+            "source": "Q8N6Y0",
+            "target": "Q8N8B7-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BT92",
+            "id": "Q9BT92"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0188",
+            "source": "Q8N6Y0",
+            "target": "Q9BT92"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q969V4",
+            "id": "Q969V4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0189",
+            "source": "Q8N6Y0",
+            "target": "Q969V4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6YHU6",
+            "id": "Q6YHU6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0190",
+            "source": "Q8N6Y0",
+            "target": "Q6YHU6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96FV9",
+            "id": "Q96FV9"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0191",
+            "source": "Q8N6Y0",
+            "target": "Q96FV9"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9Y5L4",
+            "id": "Q9Y5L4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0192",
+            "source": "Q8N6Y0",
+            "target": "Q9Y5L4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8N7U7-2",
+            "id": "Q8N7U7-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0193",
+            "source": "Q8N6Y0",
+            "target": "Q8N7U7-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9BYV2",
+            "id": "Q9BYV2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0194",
+            "source": "Q8N6Y0",
+            "target": "Q9BYV2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8N7C3",
+            "id": "Q8N7C3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0195",
+            "source": "Q8N6Y0",
+            "target": "Q8N7C3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q99816",
+            "id": "Q99816"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0196",
+            "source": "Q8N6Y0",
+            "target": "Q99816"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q5W5X9-3",
+            "id": "Q5W5X9-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0197",
+            "source": "Q8N6Y0",
+            "target": "Q5W5X9-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8N5M4",
+            "id": "Q8N5M4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0198",
+            "source": "Q8N6Y0",
+            "target": "Q8N5M4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6ZVT0-3",
+            "id": "Q6ZVT0-3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0199",
+            "source": "Q8N6Y0",
+            "target": "Q6ZVT0-3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "P40222",
+            "id": "P40222"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0200",
+            "source": "Q8N6Y0",
+            "target": "P40222"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8N3L3",
+            "id": "Q8N3L3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0201",
+            "source": "Q8N6Y0",
+            "target": "Q8N3L3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96B02",
+            "id": "Q96B02"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0202",
+            "source": "Q8N6Y0",
+            "target": "Q96B02"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q96FI0",
+            "id": "Q96FI0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0203",
+            "source": "Q8N6Y0",
+            "target": "Q96FI0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q5T124",
+            "id": "Q5T124"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0204",
+            "source": "Q8N6Y0",
+            "target": "Q5T124"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q5T124-6",
+            "id": "Q5T124-6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0205",
+            "source": "Q8N6Y0",
+            "target": "Q5T124-6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "O75604",
+            "id": "O75604"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0206",
+            "source": "Q8N6Y0",
+            "target": "O75604"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q548N1",
+            "id": "Q548N1"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0207",
+            "source": "Q8N6Y0",
+            "target": "Q548N1"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q9UK41",
+            "id": "Q9UK41"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0208",
+            "source": "Q8N6Y0",
+            "target": "Q9UK41"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "B2RXF5",
+            "id": "B2RXF5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0209",
+            "source": "Q8N6Y0",
+            "target": "B2RXF5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q15911-2",
+            "id": "Q15911-2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0210",
+            "source": "Q8N6Y0",
+            "target": "Q15911-2"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q68DK2-5",
+            "id": "Q68DK2-5"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0211",
+            "source": "Q8N6Y0",
+            "target": "Q68DK2-5"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8TAU3",
+            "id": "Q8TAU3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0212",
+            "source": "Q8N6Y0",
+            "target": "Q8TAU3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q6P088",
+            "id": "Q6P088"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0213",
+            "source": "Q8N6Y0",
+            "target": "Q6P088"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8N720",
+            "id": "Q8N720"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0214",
+            "source": "Q8N6Y0",
+            "target": "Q8N720"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "A0A0S2Z5X4",
+            "id": "A0A0S2Z5X4"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0215",
+            "source": "Q8N6Y0",
+            "target": "A0A0S2Z5X4"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "A0A0S2Z6P0",
+            "id": "A0A0S2Z6P0"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0216",
+            "source": "Q8N6Y0",
+            "target": "A0A0S2Z6P0"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q7L2R6",
+            "id": "Q7L2R6"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0217",
+            "source": "Q8N6Y0",
+            "target": "Q7L2R6"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "G4XUV3",
+            "id": "G4XUV3"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0218",
+            "source": "Q8N6Y0",
+            "target": "G4XUV3"
+        }
+    },
+    {
+        "group": "nodes",
+        "data": {
+            "name": "Q8N9J2",
+            "id": "Q8N9J2"
+        }
+    },
+    {
+        "group": "edges",
+        "data": {
+            "id": "Q8N6Y0219",
+            "source": "Q8N6Y0",
+            "target": "Q8N9J2"
+        }
+    }
+]
