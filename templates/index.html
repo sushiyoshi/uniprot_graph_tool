@@ -6,17 +6,35 @@
   <link href="/static/index.css" rel="stylesheet" />
 </head>
 <body>
-  <div class="folder_open"></div>
   <div id="app">
   <form action="/graph" enctype="multipart/form-data">
-    <a class = "text center">Analyze a protein and display a graph.</a><br>
-    <input type="text" name="query" value="O60315" placeholder="Enter a protein">
-    <input type="number" name="depth" value="1" placeholder="Set the depth">
-    <button type="submit" formmethod="get" id="upload_button" class="center">Create a graph</button><br>
-    <a class = "text2 center">Display the graph from the uploaded json</a>
-    <input type="file" name="fileup" class="center">
-    <p class="center" id="upload_state">選択されていません</p>
-    <button type="submit" formmethod="post" id="upload_button" class="center">Create a graph</button>
+    <!--<a>Analyze a protein and display a graph.</a><br>-->
+    <div class="analyze_mode">
+      <a id="oomozi">Analyze a protein and display a graph.</a>
+      <div class="cp_iptxt">
+        Accession Number:<br>
+        <label class="ef">
+          <input type="text" name="query" value="O60315" placeholder="Enter a protein">
+        </label>
+      </div>
+      <div class="cp_iptxt">
+        Depth:<br>
+        <label class="ef">
+          <input type="text" name="depth" value="1" placeholder="Set the depth">
+        </label>
+      </div>
+      <button type="submit" formmethod="get" id="upload_button">Create a graph</button><br>
+    </div>
+    <div class="file_mode">
+      <a id="oomozi">Display the graph from the uploaded json.</a><br>
+      <!--<a>Display the graph from the uploaded json</a>-->
+      <label for="sample1" class="waku">
+        ファイルを選択
+        <input type="file" name="fileup" size="30" id="sample1">
+      </label>
+      <p id="upload_state">選択されていません</p>
+      <button type="submit" formmethod="post" id="upload_button" >Create a graph</button>
+    </div>
   <form>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
   <script type="text/javascript">
@@ -26,8 +44,5 @@
   });
   </script>
   </div>
-  <div id="analyze"></div>
-  <div id="fileup"></div>
-
 </body>
 </html>

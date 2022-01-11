@@ -1,38 +1,29 @@
-<!--
 <!DOCTYPE html>
 <html>
   <head>
     <meta name="description" content="[Cytoscape]" />
     <link href="/static/style.css" rel="stylesheet" />
-    <meta charset=utf-8 />
-    <meta name="viewport" content="user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, minimal-ui">
-    <title>Cytoscape result</title>
-    <script src="/static/cytoscape.js/documentation/js/cytoscape.min.js"></script>
-  </head>
-  <body>
-    <div id="cy"></div>
-    <script src="/static/code.js"></script>
-  </body>
-</.html>
--->
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta name="description" content="[Cytoscape]" />
-    <link href="/static/style.css" rel="stylesheet" />
+    <link href='https://css.gg/software-download.css' rel='stylesheet'>
     <meta charset=utf-8 />
     <!-- <meta name="viewport" content="user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, minimal-ui"> -->
     <title>Cytoscape result</title>
     <script src="/static/cytoscape.js/documentation/js/cytoscape.min.js"></script>
   </head>
-  <form action="/download" method="get" id="download_button">
-      <label>Download the json file of the graph</label><br>
+  <!-- <form action="/download" method="get" id="download_button">
+      <a id="download_text">Download the json file of the graph</a><br>
       <input type="submit" name="button" value={{filename}} id="download_button">
-  <form>
+  <form> -->
 <!--   <form action="/download" method="post" enctype="text/plain">
     <label>Download the json file of the graph</label><br>
     <input type="file" name="fil" value={{elem|tojson}}>
     <input type="submit" name="button"> -->
+  <form action="/download" method="get" id="download_button">
+    <label for="download">
+      <div id="icon">   <i class="gg-software-download"></i></div>
+      <a id="download_text">Download JSON</a>
+      <input type="submit" name="button" value={{filename}} id="download" class=nondisp>
+    </label>
+  <form>
   <body>
     <div id="cy"></div>
     <script type="text/javascript">
@@ -87,8 +78,8 @@
             .selector('edge')
               .css({
                 'curve-style': 'bezier',
-                'line-color': '#8b0000',
-                'width': 1
+                'line-color': '#aaa',
+                'width': 2
               })
             .selector(':selected')
               .css({
