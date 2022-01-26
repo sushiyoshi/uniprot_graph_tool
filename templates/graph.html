@@ -75,6 +75,10 @@
                 'height': '50px', 
                 'font-size': '20px'
               })
+            .selector('.pydata')
+              .css({
+                'display':'none'
+              })
             .selector('edge')
               .css({
                 'curve-style': 'bezier',
@@ -97,19 +101,19 @@
           elements:  input_file, 
         });
 
-        cy.on('tap', 'node', function(e){
-          var node = e.cyTarget;
-          var neighborhood = node.neighborhood().add(node);
+        // cy.on('tap', 'node', function(e){
+        //   var node = e.cyTarget;
+        //   var neighborhood = node.neighborhood().add(node);
 
-          cy.elements().addClass('faded');
-          neighborhood.removeClass('faded');
-        });
+        //   cy.elements().addClass('faded');
+        //   neighborhood.removeClass('faded');
+        // });
 
-        cy.on('tap', function(e){
-          if( e.cyTarget === cy ){
-            cy.elements().removeClass('faded');
-          }
-        });
+        // cy.on('tap', function(e){
+        //   if( e.cyTarget === cy ){
+        //     cy.elements().removeClass('faded');
+        //   }
+        // });
 
 
     </script>

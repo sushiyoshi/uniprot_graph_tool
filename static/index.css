@@ -3,11 +3,12 @@ body {
   font-family: "sans-serif";
   font-weight:600;
   color: #e3f2fd;
+  text-align: center;
 }
 #app {
   width:80%;
-  height:60%;
-  padding: 28px;
+  height:75%;
+  padding: 10px;
   line-height: 1.5;
   border: 1px solid #ffffff;
   border-radius: 5px;
@@ -15,10 +16,9 @@ body {
   box-shadow: 2px 2px 4px 0px rgba(200,200,200,1);
   position: absolute;
   left: 8%;
-  top: 15%;
+  top: 10%;
   animation: anime 0.5s ease;
 }
-
 @keyframes anime {
     0% {
         opacity:  0.0;
@@ -31,20 +31,19 @@ body {
 }
 
 .analyze_mode{
-  transform: translateX(20em);
+  /*transform: translateX(20em);*/
   /*text-align: center;*/
 }
 
 .file_mode{
-  transform: translate(20em,3em);
+  /*transform: translate(20em,3em);*/
   /*text-align: center;*/
 }
 
 .cp_iptxt {
-  position: relative;
   width: 30%;
-  margin: 1% 3%;
-  text-align: center;
+  margin-right:auto;
+  margin-left:auto;
 
 }
 .cp_iptxt input[type='text'] {
@@ -68,11 +67,11 @@ body {
   color: #fff;
   cursor: pointer;
   padding: 20px 40px;
-  margin: 1% 10% 0 0;
+  margin: 1% 0% 0 0;
   display: inline-block;
   box-shadow: 2px 2px 4px 0px rgba(70,71,117,1);
   border-radius: 5px;
-  transform: translateX(8em);
+  /*transform: translateX(8em);*/
 }
 input[type="file"] {
     display: none;
@@ -95,12 +94,12 @@ label:hover {
   color: #fff;
   padding: 0.6em 0.8em;
   text-align: center;
-  transform: translateX(11.5em);
+  /*transform: translateX(11.5em);*/
   position: relative;
 }
 
 #upload_state {
   color: #fff;
   position: relative;
-  transform: translateX(9.5em);
+  /*transform: translateX(9.5em);*/
 }

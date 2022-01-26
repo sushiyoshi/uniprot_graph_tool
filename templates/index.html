@@ -7,8 +7,45 @@
 </head>
 <body>
   <div id="app">
-  <form action="/graph" enctype="multipart/form-data">
-    <!--<a>Analyze a protein and display a graph.</a><br>-->
+    <form action="/analyze_mode" enctype="multipart/form-data">
+      <div class="analyze_mode">
+        <a id="oomozi">Display the graph from Accession Number</a>
+        <div class="cp_iptxt">
+          Accession Number:<br>
+          <label class="ef">
+            <input type="text" name="query" value="P0DTC2" placeholder="Enter a protein">
+          </label>
+        </div>
+        <div class="cp_iptxt">
+          Depth:<br>
+          <label class="ef">
+            <input type="text" name="depth" value="1" placeholder="Set the depth">
+          </label>
+        </div>
+        <br> 
+        <button type="submit" formmethod="get" id="upload_button">Create a graph</button><br>
+      </div>
+    </form>
+    <br> 
+    <form action="/file_mode" enctype="multipart/form-data">
+      <div class="file_mode">
+        <a id="oomozi">Display the graph from the uploaded json.</a><br>
+        <label for="sample1" class="waku">
+          Select file
+          <input type="file" name="fileup" size="30" id="sample1">
+        </label>
+        <p id="upload_state">Not selected</p>
+        <div class="cp_iptxt">
+          Depth:<br>
+          <label class="ef">
+            <input type="text" name="depth" value="0" placeholder="Set the depth">
+        </label>
+        </div>
+        <br>
+        <button type="submit" formmethod="post" id="upload_button" >Create a graph</button>
+      </div>
+    </form>
+  <!-- <form action="/graph" enctype="multipart/form-data">
     <div class="analyze_mode">
       <a id="oomozi">Analyze a protein and display a graph.</a>
       <div class="cp_iptxt">
@@ -27,15 +64,15 @@
     </div>
     <div class="file_mode">
       <a id="oomozi">Display the graph from the uploaded json.</a><br>
-      <!--<a>Display the graph from the uploaded json</a>-->
       <label for="sample1" class="waku">
-        ファイルを選択
+        Select file
         <input type="file" name="fileup" size="30" id="sample1">
       </label>
-      <p id="upload_state">選択されていません</p>
+      <p id="upload_state">Not selected</p>
       <button type="submit" formmethod="post" id="upload_button" >Create a graph</button>
     </div>
-  <form>
+  <form> -->
+
   <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js'></script>
   <script type="text/javascript">
     $('input').on('change', function () {
