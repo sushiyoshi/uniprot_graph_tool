@@ -8,6 +8,7 @@ from werkzeug.utils import secure_filename
 from flask import send_from_directory
 import tempfile
 import io
+import uuid
 
 app = Flask(__name__)
 global elements
@@ -22,7 +23,6 @@ def allwed_file(filename):
 
 @app.route("/")
 def index():
-    print(elements)
     return render_template("index.html")
 
 # @app.route("/graph",methods=['GET', 'POST'])
@@ -75,15 +75,17 @@ def analyze_mode():
 def analyze():
     global elements
     #アクセッション番号
+    print(elements)
     target = request.args.get('query', '')
     #深さ
     depth = request.args.get('depth', '')
     filename = target + '.json'
-    elements[filename] = xml_to_json.xmlTojson_fileoutput(target,int(depth))
+    fileid = str(uuid.uuid4())[-6:]
+    elements[fileid] = xml_to_json.xmlTojson_fileoutput(target,int(depth))
     #無効なアクセッション番号
-    if elements[filename] == -1:
+    if elements[fileid] == -1:
         return render_template("error.html",error_text='Invalid accession number')
-    return render_template("graph.html",elem=elements[filename],filename=filename)
+    return render_template("graph.html",elem=elements[fileid],filename=filename,fileid=fileid)
 
 @app.route("/file_mode",methods=['POST'])
 def file_mode():
@@ -104,9 +106,11 @@ def file_mode():
                 depth = int(depth)
                 if depth != 0:
                     json_file = xml_to_json.xmlTojson_inp_json(json_file,depth)
-                elements[filename] = json_file
+                fileid = str(uuid.uuid4())[-6:]
+                print(fileid)
+                elements[fileid] = json_file
                 #print(elements[filename])
-                return render_template("graph.html",elem=elements[filename],filename=filename)
+                return render_template("graph.html",elem=elements[fileid],filename=filename,fileid=fileid)
             else:
                 return render_template("error.html",error_text='file unspecified')
         else:
@@ -117,8 +121,9 @@ def file_mode():
 @app.route('/download',methods=['GET','POST'])
 def donwload():
     #ファイル名はダウンロードボタンに記載してある
-    filename = request.args.get('button', '')
-    file = elements[filename]
+    fileid = request.args.get('button', '')
+    file = elements[fileid]
+    filename = fileid + '.json'
     if file:
         #ファイルをサーバ内に残さないために、インメモリでjsonファイルの内容を展開
         mem = io.BytesIO()
